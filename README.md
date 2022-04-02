@@ -9,6 +9,7 @@ This applications provides users with a fast and easy way to track their money. 
 
 ## Preview
 ![screenshot of the buget tracker](./assets/budget-tracker-screenshot.png)
+View the application on Heroku: https://protected-crag-81622.herokuapp.com/ 
 
 ## Installation
 The user should clone the repository from GitHub and install dependencies. To run server, run npm start.
